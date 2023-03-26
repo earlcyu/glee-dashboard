@@ -3,10 +3,10 @@
 This project aims to create a Power BI dashboard that illustrates information regarding the various covers that had been done on the TV series, Glee.
 
 Specifically, this project aims to:
-1. Extract data from the show's Wikipedia page
+1. Extract data from the show's Wikipedia pages ([songs](https://en.wikipedia.org/wiki/Lists_of_songs_in_Glee_(TV_series)), [episodes](https://en.wikipedia.org/wiki/List_of_Glee_episodes))
 2. Transform and normalize data using Power Query 
 3. Model the normalized data using a star schema 
-4. Create charts that summarize information
+4. Create visualizations 
 
 ---
 
@@ -21,9 +21,9 @@ Once I had normalized the data, it was easy to create the necessary visualizatio
 ## Files
 
 ```
-.gitignore          - list of files/types to exclude in git commits
-glee_dashboard.pbix
-glee_data_model.png
-glee_logo.png
-README.md           - documentation
+.gitignore              - list of files/types to exclude in git commits
+glee_dashboard.pbix     - Power BI dashboard; main file
+glee_data_model.png     - photo of the final datal model 
+glee_logo.png           - photo of the Glee logo; used in the dashboard
+README.md               - documentation
 ```
