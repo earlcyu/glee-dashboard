@@ -1,0 +1,744 @@
+Song ID,Episode Code,Song Title,Cover ID,Song Performer ID,Is Single,Album ID
+1,S01E01,Where Is Love?,1,1,False,1
+2,S01E01,Respect,2,2,False,1
+640,S05E15,(You Make Me Feel Like) A Natural Woman,2,2,True,36
+643,S05E15,Colorblind,386,2,True,36
+350,S03E13,I Will Always Love You,117,2,True,18
+341,S03E12,Don't Wanna Lose You,234,2,True,18
+543,S04E21,Higher Ground,186,2,True,24
+26,S01E03,Bust Your Windows,24,2,True,3
+60,S01E11,Don't Make Me Over,17,2,True,4
+70,S01E13,And I Am Telling You I'm Not Going,64,2,True,4
+259,S02E21,Try a Little Tenderness,191,2,True,16
+3,S01E01,Mister Cellophane,3,3,False,1
+104,S01E18,Pink Houses,85,3,False,1
+258,S02E21,Some People,87,3,True,10
+157,S02E04,Le Jazz Hot!,122,3,True,10
+644,S05E15,I'm Still Here,384,3,True,36
+278,S03E02,I'm the Greatest Star,65,3,True,18
+380,S03E17,I Have Nothing,117,3,True,18
+470,S04E09,Being Alive,299,3,True,24
+733,S06E12,Mister Cellophane,3,3,False,23
+151,S02E03,I Want to Hold Your Hand,72,3,True,9
+106,S01E18,"Rose's Turn""[nb 4",87,3,True,6
+241,S02E18,As If We Never Said Goodbye,182,3,True,16
+4,S01E01,I Kissed a Girl,4,4,False,1
+30,S01E04,Tonight,28,4,False,1
+560,S05E02,Revolution,72,4,False,1
+136,S02E01,Getting to Know You,109,4,False,1
+203,S02E12,My Funny Valentine,155,4,False,1
+234,S02E17,I Follow Rivers,177,4,True,10
+396,S03E20,Because You Loved Me,264,4,True,18
+495,S04E13,Hung Up,56,4,True,24
+478,S04E11,I Don't Know How to Love Him,306,4,True,24
+735,S06E12,I Kissed a Girl,4,4,True,53
+6,S01E01,"Sit Down, You're Rockin' the Boat",6,6,False,1
+114,S01E19,Dream a Little Dream of Me,94,6,True,5
+408,S03E22,"Sit Down, You're Rockin' the Boat""[nb 5",6,250,False,1
+8,S01E01,"Lovin', Touchin', Squeezin'",8,8,False,1
+31,S01E05,Don't Stop Believin',8,21,False,1
+73,S01E13,Don't Stop Believin',8,39,False,1
+9,S01E01,You're the One That I Want,9,9,False,1
+14,S01E01,Don't Stop Believin',8,9,True,3
+41,S01E07,No Air,37,9,True,3
+127,S01E22,Faithfully,8,9,True,8
+163,S02E05,Over at the Frankenstein Place,126,9,True,12
+61,S01E11,You're the One That I Want,9,36,False,1
+159,S02E04,With You I'm Born Again,123,36,False,1
+66,S01E12,Smile,60,36,True,4
+415,S03E22,Roots Before Branches,275,36,True,20
+85,S01E15,Open Your Heart/Borderline,56,36,True,7
+155,S02E04,Don't Go Breaking My Heart,120,36,True,5
+269,S02E22,Pretending,163,36,True,16
+193,S02E10,Last Christmas,148,36,True,14
+12,S01E01,That's the Way (I Like It),12,12,False,1
+13,S01E01,"(Shake, Shake, Shake)Shake Your Booty",12,12,False,1
+367,S03E16,"That's the Way (I Like It)""[nb 3",12,220,False,1
+15,S01E02,Le Freak,13,13,False,1
+40,S01E07,Ride wit Me,36,13,False,1
+581,S05E05,On Our Way,355,13,True,1
+194,S02E10,Welcome Christmas,147,13,True,10
+402,S03E21,Paradise by the Dashboard Light,268,13,True,18
+534,S04E20,We Will Rock You,32,13,True,24
+489,S04E12,This Is the New Year,315,13,True,24
+525,S04E18,Say,342,13,True,24
+154,S02E03,One of Us,119,13,True,9
+179,S02E08,Marry You,135,13,True,9
+737,S06E12,Don't Stop Believin',8,13,True,53
+18,S01E02,Push It,16,13,True,2
+63,S01E11,Crazy in Love/Hair,57,13,True,2
+82,S01E14,"Hello, Goodbye",72,13,True,6
+125,S01E21,Give Up the Funk,102,13,True,6
+36,S01E05,Somebody to Love,32,13,True,3
+43,S01E07,Keep Holding On,39,13,True,3
+128,S01E22,"Any Way You Want It"" / ""Lovin', Touchin', Squeezin'",8,13,True,8
+129,S01E22,Don't Stop Believin',8,13,True,8
+131,S01E22,"To Sir, with Love",104,13,True,8
+52,S01E09,Proud Mary,48,13,True,4
+58,S01E10,Lean on Me,54,13,True,4
+68,S01E12,Jump,62,13,True,4
+69,S01E12,Smile,63,13,True,4
+75,S01E13,You Can't Always Get What You Want,66,13,True,4
+76,S01E13,My Life Would Suck Without You,67,13,True,4
+719,S06E09,Cool Kids,440,13,True,50
+90,S01E15,Like a Prayer,56,13,True,7
+458,S04E07,Some Nights,292,13,True,25
+168,S02E05,Time Warp,126,13,True,12
+323,S03E09,Do They Know It's Christmas?,225,13,True,21
+720,S06E10,Rather Be,441,13,True,51
+724,S06E10,Rise,444,13,True,51
+17,S01E02,All by Myself,15,15,False,1
+49,S01E08,"I Could Have Danced All Night""[nb 2",45,15,True,3
+21,S01E03,For He's a Jolly Good Fellow,19,18,False,1
+22,S01E03,This Is How We Do It,20,18,False,1
+23,S01E03,Poison,21,18,False,1
+27,S01E03,"I Wanna Sex You Up""[nb 2",25,18,True,3
+25,S01E03,La Camisa Negra,23,19,False,1
+28,S01E04,"Single Ladies (Put a Ring on It)""[nb 3",26,20,False,1
+410,S03E22,"Single Ladies (Put a Ring on It)""[nb 5][nb 6",26,251,False,1
+579,S05E05,If I Were a Boy,26,373,True,1
+33,S01E05,Cabaret,29,5,False,1
+46,S01E08,What a Girl Wants,42,5,False,1
+67,S01E12,When You're Smiling,61,5,False,1
+386,S03E18,"Don't Rain on My Parade""[nb 4",65,5,False,1
+101,S01E18,The Climb,82,5,False,1
+212,S02E14,My Headband,163,5,False,1
+223,S02E16,Only Child,163,5,False,1
+150,S02E03,"Papa, Can You Hear Me?",95,5,True,10
+143,S02E02,...Baby One More Time,113,5,True,10
+254,S02E20,Jar of Hearts,188,5,True,10
+389,S03E18,Cry,67,5,True,18
+328,S03E10,Without You,229,5,True,18
+468,S04E09,Being Good Isn't Good Enough,95,5,True,24
+545,S04E22,To Love You More,264,5,True,24
+484,S04E12,Torn,311,5,True,24
+5,S01E01,On My Own,5,5,True,2
+29,S01E04,Taking Chances,27,5,True,3
+56,S01E10,Crush,52,5,True,4
+74,S01E13,Don't Rain on My Parade,65,5,True,4
+701,S06E06,"Promises, Promises",426,5,True,47
+395,S03E20,I Won't Give Up,263,5,True,20
+572,S05E03,Make You Feel My Love,179,5,True,29
+671,S06E01,Uninvited,403,5,True,42
+675,S06E01,Let It Go,406,5,True,42
+638,S05E14,People,65,5,True,35
+651,S05E17,I'm the Greatest Star,65,5,True,38
+140,S02E01,What I Did for Love,112,5,True,5
+552,S05E01,Yesterday,72,5,True,28
+742,S06E13,This Time,454,5,True,54
+260,S02E21,My Man,95,5,True,16
+249,S02E19,Go Your Own Way,184,5,True,16
+190,S02E10,Merry Christmas Darling,145,5,True,14
+469,S04E09,O Holy Night,160,5,True,14
+317,S03E09,River,221,5,True,21
+667,S05E20,Glitter in the Air,176,5,True,41
+654,S05E18,Wake Me Up,391,5,True,39
+658,S05E18,The Rose,394,5,True,39
+609,S05E10,Barracuda,30,395,True,1
+590,S05E07,You're My Best Friend,32,379,True,1
+613,S05E10,The Happening,38,398,True,1
+80,S01E14,Hello Again,43,11,False,1
+144,S02E02,Sailing,115,11,False,1
+180,S02E08,Sway,136,11,True,9
+45,S01E08,Thong Song,41,11,True,2
+11,S01E01,"Leaving on a Jet Plane""[nb 2",11,11,True,3
+55,S01E10,"Don't Stand So Close to Me""/""Young Girl",51,11,True,4
+409,S03E22,Forever Young,273,11,True,20
+121,S01E21,Tell Me Something Good,98,11,True,5
+738,S06E13,Teach Your Children,453,11,True,54
+264,S02E22,Still Got Tonight,194,11,False,17
+48,S01E08,"Sing, Sing, Sing (With a Swing)""[nb 3",44,31,False,1
+650,S05E17,N.Y.C.,346,31,True,38
+740,S06E13,The Winner Takes It All,190,31,True,54
+723,S06E10,The Final Countdown,443,31,True,51
+72,S01E13,Proud Mary,48,35,False,1
+71,S01E13,And I Am Telling You I'm Not Going,64,35,False,1
+59,S01E11,Bootylicious,55,35,True,2
+608,S05E10,"Jumpin', Jumpin'",55,394,True,1
+83,S01E15,"Ray of Light""[nb 3",56,42,False,1
+195,S02E11,"California Gurls""[nb 1",149,42,False,1
+589,S05E07,Into the Groove,56,378,True,1
+577,S05E05,"You Are Woman, I Am Man",65,371,True,1
+604,S05E09,Don't Rain on My Parade,65,82,True,1
+257,S02E21,Back to Black,10,82,True,10
+225,S02E16,Trouty Mouth,163,82,True,10
+496,S04E13,Girl on Fire,317,82,True,24
+441,S04E04,Mine,266,82,True,25
+246,S02E19,Songbird,184,82,True,16
+162,S02E05,Science Fiction/Double Feature,126,82,True,12
+607,S05E09,Breakaway,67,393,True,1
+580,S05E05,Wrecking Ball,82,270,True,1
+451,S04E06,"Look at Me, I'm Sandra Dee (Reprise)",9,270,True,22
+432,S04E02,Everytime,113,270,True,26
+476,S04E10,The First Noël,160,270,True,27
+108,S01E19,Daydream Believer,89,56,False,1
+109,S01E19,Piano Man,90,57,False,1
+111,S01E19,Dream On,92,57,True,6
+110,S01E19,Big Spender,91,58,False,1
+272,S03E01,Big Spender,91,149,False,1
+126,S01E22,"You Raise Me Up"" / ""Magic",103,65,False,1
+228,S02E16,Jesus Is My Friend,174,65,False,1
+134,S02E01,Every Rose Has Its Thorn,107,68,False,1
+206,S02E13,Baby,157,68,True,15
+700,S06E06,(They Long to Be) Close to You,145,68,True,47
+138,S02E01,"The Power""[nb 1",111,7,False,1
+152,S02E03,Losing My Religion,118,7,True,10
+102,S01E18,Jessie's Girl,83,7,True,2
+7,S01E01,Can't Fight This Feeling,7,7,True,3
+54,S01E10,I'll Stand by You,50,7,True,4
+57,S01E10,(You're) Having My Baby,53,7,True,4
+77,S01E14,"Hello, I Love You",68,7,True,5
+173,S02E07,Conjunction Junction,130,89,False,1
+236,S02E17,Turning Tables,179,89,True,16
+209,S02E13,This Little Light of Mine,160,111,False,1
+339,S03E12,La Cucaracha,160,200,False,1
+248,S02E19,"Nice to Meet You, Have I Slept with You?",163,23,False,1
+91,S01E16,Fire,74,23,True,2
+93,S01E16,One Less Bell to Answer/A House Is Not a Home,75,23,True,6
+34,S01E05,Alone,30,23,True,3
+244,S02E19,Dreams,184,23,True,16
+235,S02E17,"Bubble Toes""[nb 1",178,128,False,1
+242,S02E18,"Barbra Streisand""[nb 1",183,132,False,1
+591,S05E07,"Nasty"" / ""Rhythm Nation",217,380,True,1
+345,S03E13,Chapel of Love,236,205,False,1
+357,S03E14,She Walks in Beauty,245,212,False,1
+382,S03E18,The Music of the Night,255,232,False,1
+397,S03E20,Always True to You in My Fashion,265,242,False,1
+405,S03E21,Starlight Express,271,247,False,1
+601,S05E09,Brave,314,162,True,1
+293,S03E05,A Boy Like That,28,162,True,18
+378,S03E17,So Emotional,117,162,True,18
+578,S05E05,Blurred Lines,354,372,True,1
+592,S05E07,Cheek to Cheek,356,381,True,1
+593,S05E07,The Fox (What Does the Fox Say?),357,382,True,1
+600,S05E09,Whenever I Call You Friend,363,389,True,1
+602,S05E09,My Lovin' (You're Never Gonna Get It),364,390,True,1
+603,S05E09,Beautiful Dreamer,365,391,False,1
+605,S05E09,I Believe in a Thing Called Love,366,392,True,1
+636,S05E14,Rockstar,315,392,True,35
+606,S05E09,Every Breath You Take,367,163,True,1
+294,S03E05,"I Have a Love""[nb 2",28,163,True,18
+630,S05E13,Be Okay,378,163,True,34
+610,S05E10,Don't You (Forget About Me),368,396,True,1
+611,S05E10,Danny's Song,369,315,True,1
+502,S04E15,You're All the World to Me,322,315,True,24
+612,S05E10,Gloria,370,397,True,1
+614,S05E10,Hold On,371,399,True,1
+153,S02E03,Bridge over Troubled Water,2,78,True,10
+237,S02E17,Ain't No Way,2,78,True,10
+734,S06E12,I'm His Child,451,78,True,53
+646,S05E16,I Want to Know What Love Is,206,78,True,37
+176,S02E07,Nowadays / Hot Honey Rag,3,92,True,10
+233,S02E17,All by Myself,27,71,True,10
+139,S02E01,Listen,64,71,True,10
+266,S02E22,For Good,47,81,True,10
+161,S02E04,"Get Happy"" / ""Happy Days Are Here Again",125,81,True,10
+182,S02E09,Don't Cry For Me Argentina,137,81,True,10
+273,S03E01,Ding-Dong! The Witch Is Dead,198,81,True,18
+732,S06E12,Popular,47,81,True,53
+239,S02E18,I've Gotta Be Me,84,130,True,10
+148,S02E03,Only the Good Die Young,90,30,True,10
+47,S01E08,Sweet Caroline,43,30,True,3
+135,S02E01,Telephone,108,69,True,10
+158,S02E04,Sing!,112,79,True,10
+149,S02E03,I Look to You,117,77,True,10
+171,S02E06,"Start Me Up"" / ""Livin' On A Prayer",128,26,True,10
+519,S04E17,Wannabe,338,26,True,24
+38,S01E06,Halo/Walking on Sunshine,34,26,True,2
+84,S01E15,Express Yourself,56,26,True,7
+172,S02E06,"Stop! In The Name Of Love"" / ""Free Your Mind",129,25,True,10
+37,S01E06,It's My Life/Confessions Part II,33,25,True,2
+175,S02E07,Make 'Em Laugh,132,91,True,10
+177,S02E07,"Singin' In The Rain"" / ""Umbrella",133,93,True,10
+178,S02E08,Ohio,134,94,True,10
+721,S06E10,The Trolley Song,305,94,True,51
+183,S02E09,The Living Years,138,96,True,10
+187,S02E09,Dog Days Are Over,142,99,True,10
+226,S02E16,Big Ass Heart,163,124,True,10
+288,S03E04,Waiting for a Girl Like You,206,124,True,18
+303,S03E07,"I'm the Only One""[nb 1",211,124,True,19
+383,S03E18,School's Out,256,124,True,20
+571,S05E03,No Surrender,74,124,True,29
+227,S02E16,Hell to the No,163,125,True,10
+262,S02E22,My Cup,163,142,True,10
+215,S02E14,"One Bourbon, One Scotch, One Beer",166,116,True,10
+221,S02E15,"Afternoon Delight""[nb 4",172,122,True,10
+245,S02E19,Never Going Back Again,184,32,True,10
+736,S06E12,Pony,452,32,True,53
+112,S01E19,The Safety Dance,93,32,True,6
+50,S01E09,Dancing with Myself,46,32,True,3
+585,S05E06,Honesty,90,32,True,31
+472,S04E10,Feliz Navidad,301,32,True,27
+247,S02E19,I Don't Want to Know,184,134,True,10
+253,S02E20,Friday,187,138,True,10
+263,S02E22,"I Love New York"" / ""New York, New York",193,143,True,10
+639,S05E15,No One Is Alone,383,237,True,36
+390,S03E19,Big Girls Don't Cry,259,237,True,18
+641,S05E15,Broadway Baby,384,114,True,36
+213,S02E14,Don't You Want Me,164,114,True,15
+291,S03E05,Tonight,28,114,True,19
+642,S05E15,Not While I'm Around,385,418,True,36
+384,S03E18,Cell Block Tango,3,233,True,18
+372,S03E16,Boogie Shoes,12,224,True,18
+403,S03E21,Starships,269,224,True,18
+404,S03E21,Pinball Wizard,270,224,True,18
+279,S03E02,Something's Coming,28,153,True,18
+363,S03E15,Fighter,42,153,True,18
+354,S03E14,Cough Syrup,242,153,True,18
+439,S04E04,"Teenage Dream"" (Acoustic Version",4,153,True,24
+433,S04E03,Everybody Wants to Rule the World,284,153,True,24
+518,S04E17,Against All Odds (Take a Look at Me Now),337,153,True,24
+443,S04E05,Hopelessly Devoted to You,9,153,True,22
+423,S04E01,It's Time,281,153,True,25
+665,S05E20,All of Me,399,153,True,41
+282,S03E03,Cool,28,156,True,18
+295,S03E05,America,28,164,True,18
+296,S03E05,"One Hand, One Heart",28,165,True,18
+672,S06E01,Suddenly Seymour,404,165,True,42
+289,S03E04,Candyman,42,161,True,18
+301,S03E06,"Rumour Has It"" / ""Someone Like You",179,161,True,19
+387,S03E18,The Rain in Spain,45,235,True,18
+343,S03E12,La Isla Bonita,56,203,True,18
+346,S03E13,L-O-V-E,63,206,True,18
+283,S03E03,It's All Over,64,157,True,18
+359,S03E14,Stronger (What Doesn't Kill You),67,214,True,18
+413,S03E22,In My Life,72,254,True,18
+375,S03E17,How Will I Know,117,227,True,18
+376,S03E17,I Wanna Dance with Somebody (Who Loves Me),117,228,True,18
+377,S03E17,Saving All My Love for You,117,229,True,18
+379,S03E17,It's Not Right but It's Okay,117,230,True,18
+381,S03E17,My Love Is Your Love,117,231,True,18
+349,S03E13,Home,136,159,True,18
+286,S03E04,Bein' Green,205,159,True,18
+290,S03E04,"Take Care of Yourself""[nb 1",207,159,True,19
+316,S03E09,Blue Christmas,220,159,True,21
+309,S03E08,Buenos Aires,137,175,True,18
+330,S03E11,Wanna Be Startin' Somethin',153,192,True,18
+491,S04E13,Don't Stop Me Now,32,192,True,24
+331,S03E11,Bad,153,193,True,18
+334,S03E11,Human Nature,153,195,True,18
+335,S03E11,Ben,153,196,True,18
+336,S03E11,Smooth Criminal,153,197,True,18
+338,S03E11,Black or White,153,199,True,18
+391,S03E19,Dinosaur,167,238,True,18
+271,S03E01,We Got the Beat,197,148,True,18
+275,S03E01,"Anything Goes"" / ""Anything You Can Do",200,151,True,18
+280,S03E03,Spotlight,202,154,True,18
+284,S03E03,Out Here on My Own,203,110,True,18
+208,S02E13,Take Me or Leave Me,159,110,True,15
+298,S03E06,"You and I"" / ""You and I",208,167,True,18
+299,S03E06,"Hit Me with Your Best Shot"" / ""One Way or Another",209,168,True,18
+300,S03E06,"I Can't Go for That (No Can Do)"" / ""You Make My Dreams",210,169,True,18
+305,S03E07,Jolene,212,171,True,18
+310,S03E08,"Survivor"" / ""I Will Survive",215,176,True,18
+333,S03E11,Never Can Say Goodbye,216,28,True,18
+62,S01E11,Papa Don't Preach,56,28,True,2
+123,S01E21,It's a Man's Man's Man's World,100,28,True,2
+42,S01E07,You Keep Me Hangin' On,38,28,True,3
+344,S03E12,A Little Less Conversation,220,204,True,18
+320,S03E09,My Favorite Things,223,184,True,18
+325,S03E10,Wedding Bell Blues,226,188,True,18
+326,S03E10,"Moves Like Jagger"" / ""Jumpin' Jack Flash",227,189,True,18
+327,S03E10,The First Time Ever I Saw Your Face,228,190,True,18
+329,S03E10,We Found Love,230,191,True,18
+332,S03E11,Scream,231,194,True,18
+337,S03E11,I Just Can't Stop Loving You,232,198,True,18
+340,S03E12,Sexy and I Know It,233,201,True,18
+342,S03E12,"Bamboleo"" / ""Hero",235,202,True,18
+347,S03E13,Let Me Love You,237,207,True,18
+348,S03E13,Stereo Hearts,238,208,True,18
+351,S03E13,You're the Top,239,209,True,18
+352,S03E13,"Cherish"" / ""Cherish",240,210,True,18
+353,S03E13,Love Shack,241,211,True,18
+355,S03E14,Stand,243,88,True,18
+356,S03E14,Glad You Came,244,88,True,18
+170,S02E06,"Teenage Dream"" [nb 2",4,88,True,9
+292,S03E05,Uptown Girl,90,88,True,19
+198,S02E11,"Bills, Bills, Bills",55,88,True,13
+184,S02E09,"Hey, Soul Sister",139,88,True,13
+202,S02E12,When I Get You Alone,154,88,True,13
+205,S02E12,Silly Love Songs,156,88,True,13
+222,S02E16,Misery,173,88,True,13
+230,S02E16,Raise Your Glass,176,88,True,13
+358,S03E14,"Fly"" / ""I Believe I Can Fly",246,213,True,18
+360,S03E14,Here's to Us,247,40,True,18
+78,S01E14,Gives You Hell,69,40,True,6
+361,S03E15,I'm Still Standing,248,215,True,18
+362,S03E15,"Hungry Like the Wolf"" / ""Rio",249,216,True,18
+364,S03E15,Up Up Up,250,217,True,18
+365,S03E15,Somebody That I Used to Know,251,218,True,18
+366,S03E16,You Should Be Dancing,252,219,True,18
+368,S03E16,Night Fever,252,221,True,18
+371,S03E16,How Deep Is Your Love,252,223,True,18
+373,S03E16,More Than a Woman,252,225,True,18
+374,S03E16,Stayin' Alive,252,226,True,18
+369,S03E16,Disco Inferno,253,222,True,18
+370,S03E16,If I Can't Have You,254,98,True,18
+186,S02E09,Valerie,141,98,True,9
+570,S05E03,If I Die Young,353,98,True,29
+385,S03E18,Not the Boy Next Door,257,234,True,18
+388,S03E18,Shake It Out,258,236,True,18
+392,S03E19,Love You Like a Love Song,260,239,True,18
+393,S03E19,What Makes You Beautiful,261,240,True,18
+394,S03E19,Take My Breath Away,262,241,True,18
+401,S03E21,It's All Coming Back to Me Now,264,246,True,18
+398,S03E20,Mean,266,243,True,18
+399,S03E20,Flashdance... What a Feeling,267,244,True,18
+406,S03E21,Tongue Tied,272,248,True,18
+467,S04E09,All That Jazz,3,295,True,24
+494,S04E13,Bring Him Home,5,33,True,24
+51,S01E09,Defying Gravity,47,33,True,3
+529,S04E19,Don't Stop Believin',8,336,True,24
+490,S04E13,Diva,26,307,True,24
+460,S04E08,Come See About Me,38,16,True,24
+19,S01E02,"I Say a Little Prayer""[nb 2",17,16,True,3
+622,S05E12,Toxic,113,16,True,34
+537,S04E20,The Longest Time,90,341,True,24
+536,S04E20,At the Ballet,112,340,True,24
+455,S04E07,Superman,118,286,True,24
+508,S04E15,Unchained Melody,328,286,True,24
+533,S04E20,Everybody Hurts,118,331,True,24
+523,S04E18,Your Song,248,331,True,24
+586,S05E06,An Innocent Man,90,331,True,31
+492,S04E13,Nutbush City Limits,121,308,True,24
+482,S04E11,Locked Out of Heaven,135,303,True,24
+516,S04E17,Wake Me Up Before You Go-Go,148,326,True,24
+582,S05E06,Movin' Out (Anthony's Song),90,326,True,31
+530,S04E19,Outcast,163,337,True,24
+551,S04E22,All or Nothing,163,351,True,24
+444,S04E05,Blow Me (One Last Kiss),176,277,True,24
+424,S04E01,Chasing Pavements,179,263,True,24
+538,S04E21,"Signed, Sealed, Delivered I'm Yours",186,342,True,24
+539,S04E21,Superstition,186,343,True,24
+540,S04E21,You Are the Sunshine of My Life,186,344,True,24
+541,S04E21,I Wish,186,345,True,24
+542,S04E21,Uptight (Everything's Alright),186,258,True,24
+418,S04E01,"Americano"" / ""Dance Again""[nb 1",278,258,True,25
+544,S04E21,For Once in My Life,186,346,True,24
+486,S04E12,A Thousand Years,188,268,True,24
+429,S04E02,"Crazy"" / ""(You Drive Me) Crazy",283,268,True,26
+522,S04E17,Mamma Mia,190,330,True,24
+445,S04E05,Juke Box Hero,206,278,True,24
+417,S04E01,Call Me Maybe,277,257,True,24
+420,S04E01,Never Say Never,279,260,True,24
+487,S04E12,Let Me Love You (Until You Learn to Love Yourself),313,260,True,24
+434,S04E03,Celebrity Skin,285,271,True,24
+435,S04E03,"The Way You Look Tonight"" / ""You're Never Fully Dressed Without a Smile",286,272,True,24
+436,S04E03,A Change Would Do You Good,287,273,True,24
+438,S04E04,Give Your Heart a Break,289,273,True,25
+437,S04E04,Barely Breathing,288,274,True,24
+440,S04E04,Don't Speak,290,275,True,24
+461,S04E08,Whistle,294,290,True,24
+498,S04E14,Getting Married Today,299,311,True,24
+471,S04E09,Don't Dream It's Over,300,296,True,24
+479,S04E11,Baby Got Back,307,300,True,24
+480,S04E11,Tell Him,308,301,True,24
+481,S04E11,No Scrubs,309,302,True,24
+483,S04E11,I Only Have Eyes for You,310,304,True,24
+485,S04E12,"Centerfold"" / ""Hot in Herre",312,305,True,24
+488,S04E12,Love Song,314,306,True,24
+493,S04E13,"Make No Mistake, She's Mine",316,309,True,24
+497,S04E14,You're All I Need to Get By,318,310,True,24
+499,S04E14,Just Can't Get Enough,319,312,True,24
+500,S04E14,We've Got Tonite,320,313,True,24
+501,S04E14,Anything Could Happen,321,314,True,24
+503,S04E15,Shout,323,316,True,24
+504,S04E15,Come What May,324,183,True,24
+707,S06E07,Somebody Loves You,432,183,True,48
+634,S05E14,You Make Me Feel So Young,381,183,True,35
+473,S04E10,White Christmas,302,183,True,27
+319,S03E09,Let It Snow,222,183,True,21
+669,S05E20,American Boy,401,183,True,41
+647,S05E16,Love Is a Battlefield,388,183,True,37
+505,S04E15,"Old Time Rock and Roll"" / ""Danger Zone",325,317,True,24
+506,S04E15,"Diamonds Are a Girl's Best Friend"" / ""Material Girl",326,318,True,24
+507,S04E15,In Your Eyes,327,29,True,24
+96,S01E17,Ice Ice Baby,77,29,True,2
+44,S01E08,Bust a Move,40,29,True,3
+532,S04E20,You've Lost That Lovin' Feelin',328,339,True,24
+509,S04E15,Footloose,329,319,True,24
+510,S04E16,How to Be a Heartbreaker,330,320,True,24
+511,S04E16,"The Bitch Is Back"" / ""Dress You Up",331,321,True,24
+512,S04E16,Cold Hearted,332,322,True,24
+513,S04E16,"Bye Bye Bye"" / ""I Want It That Way",333,323,True,24
+514,S04E16,"I Still Believe"" / ""Super Bass",334,324,True,24
+515,S04E16,Closer,335,325,True,24
+517,S04E17,Copacabana,336,327,True,24
+520,S04E17,My Prerogative,339,328,True,24
+521,S04E17,Creep,340,329,True,24
+524,S04E18,More Than Words,341,332,True,24
+526,S04E19,Next to Me,343,333,True,24
+527,S04E19,(You Gotta) Fight for Your Right (To Party!),344,334,True,24
+528,S04E19,You Have More Friends Than You Know,345,335,True,24
+535,S04E20,Little Girls,346,43,True,24
+86,S01E15,Vogue,56,43,True,7
+687,S06E04,Bitch,416,43,True,45
+546,S04E22,Rainbow Connection,347,347,True,24
+547,S04E22,Clarity,348,348,True,24
+548,S04E22,Wings,349,348,True,24
+549,S04E22,Hall of Fame,350,349,True,24
+550,S04E22,I Love It,351,350,True,24
+531,S04E20,The Star-Spangled Banner,160,338,False,23
+419,S04E01,Busters Get Popped,163,259,False,23
+416,S04E01,Sister Christian,276,256,False,23
+421,S04E01,Ave Maria,280,261,False,23
+464,S04E08,"Over the River and Through the Wood"" / ""She'll Be Coming 'Round the Mountain",296,293,False,23
+676,S06E02,Viva Voce,407,435,False,23
+726,S06E11,Broken Wings,445,467,False,23
+133,S02E01,Empire State of Mind,106,67,True,9
+137,S02E01,Billionaire,110,70,True,9
+145,S02E02,Stronger,113,74,True,9
+146,S02E02,Toxic,113,75,True,9
+142,S02E02,Me Against the Music,114,73,True,9
+147,S02E02,The Only Exception,116,76,True,9
+156,S02E04,River Deep – Mountain High,121,54,True,9
+105,S01E18,The Boy Is Mine,86,54,True,5
+655,S05E18,Doo Wop (That Thing),392,54,True,39
+160,S02E04,Lucky,124,80,True,9
+169,S02E06,One Love/People Get Ready,127,87,True,9
+174,S02E07,Forget You,131,90,True,9
+181,S02E08,Just The Way You Are,135,95,True,9
+185,S02E09,(I've Had) The Time of My Life,140,97,True,9
+204,S02E12,Firework,4,108,True,15
+200,S02E12,Fat Bottomed Girls,32,106,True,15
+196,S02E11,Need You Now,150,103,True,15
+197,S02E11,She's Not There,151,104,True,15
+199,S02E11,"Thriller"" / ""Heads Will Roll",152,105,True,15
+201,S02E12,P.Y.T. (Pretty Young Thing),153,107,True,15
+207,S02E13,Somebody to Love,158,109,True,15
+211,S02E13,Sing,162,113,True,15
+231,S02E16,Get It Right,163,126,True,15
+232,S02E16,Loser like Me,163,127,True,15
+217,S02E15,"Do You Wanna Touch Me (Oh Yeah)""[nb 3",168,118,True,15
+219,S02E15,Kiss,170,120,True,15
+220,S02E15,Landslide,171,121,True,15
+287,S03E04,Last Friday Night (T.G.I.F.),4,160,True,19
+306,S03E07,"I Kissed a Girl""[nb 1",4,172,True,19
+281,S03E03,Run the World (Girls),26,155,True,19
+277,S03E02,Somewhere,28,59,True,19
+113,S01E19,I Dreamed a Dream,5,59,True,6
+119,S01E20,"Poker Face""[nb 4",96,59,True,6
+304,S03E07,Girls Just Want to Have Fun,59,170,True,19
+297,S03E06,Hot for Teacher,62,166,True,19
+313,S03E08,Man in the Mirror,153,179,True,19
+302,S03E07,"Perfect""[nb 1",176,101,True,19
+191,S02E10,"Baby, It's Cold Outside",146,101,True,14
+656,S05E18,Story of My Life,261,101,True,39
+682,S06E03,It's Too Late,413,101,True,44
+274,S03E01,It's Not Unusual,199,150,True,19
+276,S03E01,You Can't Stop the Beat,201,152,True,19
+285,S03E03,Fix You,204,158,True,19
+307,S03E07,Constant Craving,213,173,True,19
+308,S03E08,"Red Solo Cup""[nb 1",214,174,True,19
+311,S03E08,ABC,216,177,True,19
+312,S03E08,Control,217,178,True,19
+575,S05E04,Wide Awake,4,369,True,30
+576,S05E04,Roar,4,370,True,30
+573,S05E04,Marry the Night,96,367,True,30
+574,S05E04,Applause,96,368,True,30
+10,S01E01,Rehab,10,10,True,2
+24,S01E03,Mercy,22,10,True,2
+120,S01E21,Another One Bites the Dust,32,10,True,2
+81,S01E14,Highway to Hell,71,10,True,2
+130,S01E22,Bohemian Rhapsody,32,10,True,8
+35,S01E05,Last Name,31,24,True,2
+95,S01E16,"Home""[nb 4",76,24,True,6
+97,S01E17,U Can't Touch This,78,49,True,2
+99,S01E17,Run Joey Run,80,51,True,2
+115,S01E20,Funny Girl,95,60,True,2
+117,S01E20,Shout It Out Loud,97,62,True,2
+118,S01E20,"Beth""[nb 4",97,62,True,6
+124,S01E21,Good Vibrations,101,64,True,2
+92,S01E16,A House Is Not a Home,17,47,True,6
+94,S01E16,Beautiful,42,48,True,6
+568,S05E03,I'll Stand by You,50,48,True,29
+189,S02E10,We Need a Little Christmas,144,48,True,14
+79,S01E14,Hello,70,41,True,6
+725,S06E11,Listen to Your Heart,421,41,True,52
+98,S01E17,Physical,79,50,True,6
+100,S01E17,Total Eclipse of the Heart,81,52,True,6
+103,S01E18,The Lady Is a Tramp,84,53,True,6
+107,S01E18,One,88,55,True,6
+116,S01E20,Bad Romance,96,61,True,6
+122,S01E21,"Loser""[nb 4",99,63,True,6
+16,S01E02,Gold Digger,14,14,True,3
+20,S01E02,Take a Bow,18,17,True,3
+32,S01E05,Maybe This Time,29,22,True,3
+39,S01E07,Hate on Me,35,27,True,3
+132,S01E22,Over the Rainbow,105,66,True,8
+632,S05E13,Don't Stop Believin',8,414,True,34
+625,S05E12,Keep Holding On,39,409,True,34
+623,S05E12,Defying Gravity,47,407,True,34
+627,S05E13,I Am Changing,64,45,True,34
+88,S01E15,4 Minutes,73,45,True,7
+624,S05E12,Valerie,141,408,True,34
+629,S05E13,Loser like Me (Acoustic),163,412,True,34
+621,S05E12,Raise Your Glass,176,406,True,34
+626,S05E12,Happy,376,410,True,34
+628,S05E13,Party All the Time,377,411,True,34
+631,S05E13,Just Give Me a Reason,379,413,True,34
+324,S03E10,Summer Nights,9,187,True,22
+447,S04E05,Born to Hand Jive,9,280,True,22
+448,S04E06,Greased Lightnin',9,281,True,22
+449,S04E06,"Look at Me, I'm Sandra Dee",9,282,True,22
+450,S04E06,Beauty School Dropout,9,283,True,22
+452,S04E06,There Are Worse Things I Could Do,9,284,True,22
+453,S04E06,You're the One That I Want,9,285,True,22
+53,S01E10,Endless Love,49,34,True,4
+64,S01E11,Imagine,58,37,True,4
+65,S01E11,True Colors,59,38,True,4
+465,S04E08,Gangnam Style,297,38,True,25
+696,S06E06,I'll Never Fall in Love Again,17,445,True,47
+708,S06E07,Time After Time,59,445,True,48
+688,S06E04,A Thousand Miles,417,445,True,45
+699,S06E06,Arthur's Theme (Best That You Can Do),115,452,True,47
+697,S06E06,Baby It's You,424,450,True,47
+698,S06E06,Wishin' and Hopin',425,451,True,47
+702,S06E06,Alfie,427,453,True,47
+703,S06E06,What the World Needs Now,428,454,True,47
+407,S03E21,We Are the Champions,32,249,True,20
+411,S03E22,I'll Remember,56,252,True,20
+414,S03E22,Glory Days,74,255,True,20
+400,S03E21,The Edge of Glory,96,245,True,20
+314,S03E08,We Are Young,218,180,True,20
+412,S03E22,You Get What You Give,274,253,True,20
+716,S06E09,I Want to Break Free,32,464,True,50
+714,S06E09,Lose My Breath,55,462,True,50
+715,S06E09,Friday I'm in Love,437,463,True,50
+717,S06E09,Uptown Funk,438,465,True,50
+718,S06E09,Break Free,439,466,True,50
+619,S05E11,America,43,404,True,33
+620,S05E11,I Still Haven't Found What I'm Looking For,88,405,True,33
+615,S05E11,I Love L.A.,372,400,True,33
+616,S05E11,Vacation,373,401,True,33
+617,S05E11,"Mr. Roboto"" / ""Counting Stars",374,402,True,33
+618,S05E11,More Than a Feeling,375,403,True,33
+567,S05E03,Seasons of Love,159,365,True,29
+569,S05E03,Fire and Rain,352,366,True,29
+224,S02E16,Blackbird,72,123,True,13
+218,S02E15,Animal,169,119,True,13
+229,S02E16,Candles,175,119,True,13
+240,S02E18,Somewhere Only We Know,181,131,True,13
+454,S04E07,Dark Side,67,131,True,25
+87,S01E15,Like a Virgin,56,44,True,7
+89,S01E15,What It Feels Like for a Girl,56,46,True,7
+662,S05E19,Lucky Star,56,426,True,40
+660,S05E19,Memory,396,426,True,40
+659,S05E19,I Melt with You,395,425,True,40
+661,S05E19,Werewolves of London,397,427,True,40
+663,S05E19,Take Me Home Tonight,398,428,True,40
+709,S06E07,I Know Where I've Been,201,457,True,48
+704,S06E07,You Give Love a Bad Name,429,434,True,48
+674,S06E01,Dance the Night Away,62,434,True,42
+689,S06E04,Rock Lobster,241,434,True,45
+690,S06E04,Whip It,418,434,True,45
+722,S06E10,Far from Over,442,434,True,51
+727,S06E11,We Built This City,446,434,True,52
+728,S06E11,Mickey,447,434,True,52
+705,S06E07,Same Love,430,455,True,48
+706,S06E07,All About That Bass,431,456,True,48
+673,S06E01,Sing,405,433,True,42
+633,S05E14,Downtown,380,415,True,35
+637,S05E14,Don't Sleep in the Subway,380,417,True,35
+635,S05E14,Best Day of My Life,382,416,True,35
+652,S05E17,Who Are You Now?,65,422,True,38
+649,S05E17,Lovefool,389,421,True,38
+653,S05E17,Pumpin Blood,390,423,True,38
+456,S04E07,Holding Out for a Hero,81,287,True,25
+422,S04E01,New York State of Mind,90,262,True,25
+446,S04E05,Everybody Talks,169,279,True,25
+442,S04E04,The Scientist,204,276,True,25
+462,S04E08,Live While We're Young,261,291,True,25
+457,S04E07,Heroes,291,288,True,25
+459,S04E08,"Homeward Bound"" / ""Home",293,289,True,25
+463,S04E08,"Let's Have a Kiki"" / ""Turkey Lurkey Time""[nb 1][nb 2",295,292,True,25
+466,S04E09,"Somethin' Stupid""[nb 1",298,294,True,25
+553,S05E01,Drive My Car,72,352,True,28
+554,S05E01,Got to Get You into My Life,72,353,True,28
+555,S05E01,You've Got to Hide Your Love Away,72,354,True,28
+556,S05E01,Help!,72,355,True,28
+557,S05E01,A Hard Day's Night,72,356,True,28
+558,S05E01,I Saw Her Standing There,72,357,True,28
+559,S05E01,All You Need Is Love/She Loves You,72,358,True,28
+561,S05E02,Get Back,72,359,True,28
+562,S05E02,Something,72,360,True,28
+563,S05E02,Here Comes the Sun,72,361,True,28
+564,S05E02,Sgt. Pepper's Lonely Hearts Club Band,72,362,True,28
+565,S05E02,Hey Jude,72,363,True,28
+566,S05E02,Let It Be,72,364,True,28
+741,S06E13,Daydream Believer,89,472,True,54
+739,S06E13,Someday We'll Be Together,362,471,True,54
+743,S06E13,I Lived,455,473,True,54
+583,S05E06,Piano Man,90,374,True,31
+584,S05E06,My Life,90,375,True,31
+587,S05E06,Just the Way You Are,90,376,True,31
+588,S05E06,You May Be Right,90,377,True,31
+243,S02E18,Born This Way,96,133,True,16
+268,S02E22,As Long as You're There,163,146,True,16
+270,S02E22,Light Up the World,163,147,True,16
+238,S02E18,"I Feel Pretty"" / ""Unpretty",180,129,True,16
+250,S02E19,Don't Stop,184,135,True,16
+251,S02E20,Rolling in the Deep,185,136,True,16
+252,S02E20,Isn't She Lovely?,186,137,True,16
+256,S02E20,Dancing Queen,190,140,True,16
+261,S02E21,Pure Imagination,192,141,True,16
+265,S02E22,Bella Notte,195,144,True,16
+141,S02E02,I'm a Slave 4 U,113,72,True,11
+210,S02E13,I Know What Boys Like,161,112,True,11
+214,S02E14,Blame It,165,115,True,11
+216,S02E14,Tik Tok,167,117,True,11
+431,S04E02,Gimme More,113,117,True,26
+255,S02E20,I'm Not Gonna Teach Your Boyfriend How to Dance with You,189,139,True,11
+267,S02E22,Yeah!,196,145,True,11
+425,S04E02,Hold It Against Me,113,264,True,26
+427,S04E02,Womanizer,113,266,True,26
+428,S04E02,3,113,267,True,26
+430,S04E02,Oops!... I Did It Again,113,269,True,26
+426,S04E02,"Boys"" / ""Boyfriend",282,265,True,26
+164,S02E05,Dammit Janet,126,83,True,12
+165,S02E05,Hot Patootie - Bless My Soul,126,84,True,12
+166,S02E05,Sweet Transvestite,126,85,True,12
+167,S02E05,"Touch-a, Touch-a, Touch-a, Touch Me",126,86,True,12
+188,S02E10,The Most Wonderful Day of the Year,143,100,True,14
+192,S02E10,"You're a Mean One, Mr. Grinch",147,102,True,14
+474,S04E10,Oh Hanukkah,303,297,True,27
+475,S04E10,Jingle Bell Rock,304,298,True,27
+477,S04E10,Have Yourself a Merry Little Christmas,305,299,True,27
+599,S05E08,Away in a Manger,160,388,True,32
+594,S05E08,Here Comes Santa Claus,358,383,True,32
+595,S05E08,Rockin' Around the Christmas Tree,359,384,True,32
+596,S05E08,Mary's Boy Child,360,385,True,32
+597,S05E08,The Chipmunk Song (Christmas Don't Be Late),361,386,True,32
+598,S05E08,Love Child,362,387,True,32
+322,S03E09,Christmas Wrapping,161,186,True,21
+318,S03E09,Extraordinary Merry Christmas,163,182,True,21
+315,S03E09,All I Want for Christmas Is You,219,181,True,21
+321,S03E09,Santa Claus Is Coming to Town,224,185,True,21
+664,S05E20,Shakin' My Head,163,429,True,41
+666,S05E20,Girls on Film,249,430,True,41
+668,S05E20,No Time at All,400,431,True,41
+670,S05E20,Pompeii,402,432,True,41
+648,S05E16,Let's Wait Awhile,217,420,True,37
+645,S05E16,Addicted to Love,387,419,True,37
+657,S05E18,Piece of My Heart,393,424,True,39
+677,S06E02,Take On Me,408,436,True,43
+678,S06E02,Tightrope,409,437,True,43
+679,S06E02,Problem,410,438,True,43
+680,S06E02,Mustang Sally,411,439,True,43
+681,S06E02,Home,412,440,True,43
+685,S06E03,So Far Away,413,443,True,44
+683,S06E03,"Hand in My Pocket"" / ""I Feel the Earth Move",414,441,True,44
+686,S06E03,"You Learn"" / ""You've Got a Friend",414,444,True,44
+684,S06E03,"Will You Love Me Tomorrow"" / ""Head over Feet",415,442,True,44
+691,S06E05,My Sharona,419,446,True,46
+692,S06E05,You Spin Me Round (Like a Record),420,446,True,46
+693,S06E05,It Must Have Been Love,421,447,True,46
+694,S06E05,Father Figure,422,448,True,46
+695,S06E05,All Out of Love,423,449,True,46
+729,S06E11,Take Me to Church,448,468,True,52
+730,S06E11,Chandelier,449,469,True,52
+731,S06E11,Come Sail Away,450,470,True,52
+710,S06E08,At Last,433,458,True,49
+711,S06E08,Hey Ya!,434,459,True,49
+712,S06E08,I'm So Excited,435,460,True,49
+713,S06E08,Our Day Will Come,436,461,True,49
