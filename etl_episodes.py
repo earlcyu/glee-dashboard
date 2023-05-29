@@ -1,6 +1,6 @@
 import datetime
 import pandas as pd
-from util import remove_first_and_last_characters, extract_character_before_delimeter, get_episode_code, process_dim_fields, process_fact_fields
+from util import make_snake_case, extract_character_before_delimeter, get_episode_code, process_dim_fields, process_fact_fields, export_df_to_csv
 
 
 
@@ -10,7 +10,7 @@ seasons = data[0]
 episodes = pd.DataFrame()
 for season in range(1, 6+1):
     df = data[season]
-    df['Season'] = season
+    df['season'] = season
     episodes = pd.concat([episodes, df])
 
 
@@ -19,92 +19,120 @@ for season in range(1, 6+1):
 # Flatten multi-row column names
 seasons.columns = [column[1] for column in seasons.columns]
 
+# Make columns snake case
+seasons.columns = map(make_snake_case, seasons.columns)
+
 # Drop Episodes.1
-seasons = seasons.drop(['Episodes.1'], axis=1)
+seasons = seasons.drop(['episodes.1'], axis=1)
 
-# Extract number for [ in Rank
-seasons['Rank'] = seasons['Rank'].apply(lambda x: extract_character_before_delimeter(x, '['))
+# Extract number for [ in rank
+seasons['rank'] = seasons['rank'].apply(lambda x: extract_character_before_delimeter(x, '['))
 
-# Convert First aired and Last aired into datetime
-seasons['First aired'] = pd.to_datetime(seasons['First aired'])
-seasons['Last aired'] = pd.to_datetime(seasons['Last aired'])
+# Convert First aired and last_aired into datetime
+seasons['first_aired'] = pd.to_datetime(seasons['first_aired'])
+seasons['last_aired'] = pd.to_datetime(seasons['last_aired'])
 
-# Convert Rank into integer
-seasons['Rank'] = seasons['Rank'].astype('int64')
+# Convert rank into integer
+seasons['rank'] = seasons['rank'].astype('int64')
 
 
 
 # Part 3: Transform episodes ===================================================
+# Make columns into snake case
+episodes.columns = map(make_snake_case, episodes.columns)
+
 # Remove the first and last characters in Title
-episodes['Title'] = episodes['Title'].apply(lambda x: x[1:-1])
+episodes['title'] = episodes['title'].apply(lambda x: x[1:-1])
 
 # Replace value
-episodes['Written by'] = episodes['Written by'].replace(
+episodes['written_by'] = episodes['written_by'].replace(
     {"Story by : Ryan Murphy & Tim WollastonTeleplay by : Ryan Murphy": "Ryan Murphy & Tim Wollaston"}
 )
 
-# Remove [nb] in Original air date; Convert to datetime
-episodes['Original air date'] = episodes['Original air date'].str.replace(r'\[.*\]', '')
-episodes['Original air date'] = pd.to_datetime(episodes['Original air date'])
+# Remove [nb] in original_air_date; Convert to datetime
+episodes['original_air_date'] = episodes['original_air_date'].str.replace(r'\[.*\]', '')
+episodes['original_air_date'] = pd.to_datetime(episodes['original_air_date'])
 
 # Remove [] in US viewers
-episodes['US viewers(millions)'] = episodes['US viewers(millions)'].apply(lambda x: extract_character_before_delimeter(x, '['))
+episodes['us_viewers(millions)'] = episodes['us_viewers(millions)'].apply(lambda x: extract_character_before_delimeter(x, '['))
 
-# Add Episode Code
-episodes['Episode Code'] = episodes[['Season', 'No. inseason']].apply(lambda x: get_episode_code(*x), axis=1)
+# Add episode_code
+episodes['episode_code'] = episodes[['season', 'no._inseason']].apply(lambda x: get_episode_code(*x), axis=1)
 
 # Add primary key
-episodes['Episode ID'] = range(1, len(episodes)+1)
+episodes['episode_id'] = range(1, len(episodes)+1)
 
 # Keep only necessary columns
 episodes = episodes[[
-    'Episode ID', 'No.overall', 'Episode Code', 'Season', 'No. inseason', 'Title', 
-    'Directed by', 'Written by', 'Original air date', 'US viewers(millions)'
+    'episode_id', 'no.overall', 'episode_code', 'season', 'no._inseason', 'title', 
+    'directed_by', 'written_by', 'original_air_date', 'us_viewers(millions)'
 ]]
 
 # Rename columns
 episodes = episodes.rename(
     columns={
-        'No.overall': 'Overall', 
-        'No. inseason': 'Episode', 
-        'Title': 'Episode Title', 
-        'US viewers(millions)': 'US Viewer Count (in millions)'
+        'no.overall': 'overall', 
+        'no._inseason': 'episode', 
+        'title': 'episode_title', 
+        'us_viewers(millions)': 'viewer_count'
     }
 )
 
 # Change data types
-episodes['US Viewer Count (in millions)'] = episodes['US Viewer Count (in millions)'].astype('float64')
+episodes['viewer_count'] = episodes['viewer_count'].astype('float64')
 
 
 
-# Part 4: Transform directors ==================================================
-directors = episodes[['Directed by']]
-
-# Drop duplicates; Add primary key column
-directors = process_dim_fields(directors, 'Director ID')
-
-# Rename column
-directors = directors.rename(columns={'Directed by': 'Director Name'})
-
-# Re-order columns
-directors = directors[['Director ID', 'Director Name']]
+# # Part 4: Transform directors ==================================================
+directors = process_dim_fields(
+    df=episodes[['directed_by']],
+    primary_key='director_id',
+    col_to_rename={'directed_by': 'director_name'},
+    col_order=['director_id', 'director_name']
+)
 
 
 
-# Part 5: Transform episode writers
+# # Part 5: Transform episode writers
 episode_writers = process_fact_fields(
-    df=episodes[['Written by']],
-    primary_key='Episode Writer ID',
-    split_col_name='Writer Name',
-    col_to_split='Written By',
+    df=episodes[['written_by']],
+    primary_key='episode_writer_id',
+    col_to_rename={'written_by': 'writers'},
+    split_col_name='writer_name',
+    col_to_split='writers',
     delimeter=' & '
 )
 
 
 
 # Part 6: Writers
-writers = process_dim_fields(episode_writers[['Writer Name']], 'Writer ID')
+writers = process_dim_fields(
+    df=episode_writers[['writer_name']],
+    primary_key='writer_id',
+    col_order=['writer_id', 'writer_name']
+)
 
-writers = writers[['Writer ID', 'Writer Name']]
 
-print(writers)
+
+# Part 7: Create foreign keys ==================================================
+# Merge dataframes
+episodes = pd.merge(episodes, directors, left_on='directed_by', right_on='director_name')
+episodes = pd.merge(episodes, episode_writers, left_on='written_by', right_on='writers')
+episodes = episodes.drop_duplicates(subset=['episode_id']).reset_index(drop=True)
+episode_writers = pd.merge(episode_writers, writers, on='writer_name')
+
+# Keep only required columns
+episodes = episodes[[
+    'episode_id', 'overall', 'episode_code', 'season', 'episode',
+    'episode_title', 'director_id', 'episode_writer_id', 
+    'original_air_date', 'viewer_count'
+]]
+episode_writers = episode_writers[['episode_writer_id', 'writer_id']]
+
+
+
+# Part 8: Export data as CSV
+# export_df_to_csv(episodes, 'dim_episodes')
+# export_df_to_csv(directors, 'dim_directors')
+# export_df_to_csv(episode_writers, 'fact_episode_writer')
+# export_df_to_csv(writers, 'dim_writers')
