@@ -1,5 +1,7 @@
+import requests 
 import numpy as np
 import pandas as pd
+from bs4 import BeautifulSoup 
 
 
 
@@ -10,6 +12,12 @@ def make_snake_case(string):
 def extract_character_before_delimeter(string, delimeter):
     position = string.find(delimeter)
     return string[:position]
+
+
+def scrape_url(url):
+    request = requests.get(url) 
+    soup = BeautifulSoup(request.content, 'html.parser')
+    return soup 
 
 
 def get_episode_code(season, episode):
